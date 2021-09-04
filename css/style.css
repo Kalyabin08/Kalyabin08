@@ -1156,21 +1156,7 @@ color: #0B132A;
         display: none;
     }
 }
-@media screen and (max-width: 300px) {
-    .menuBurger__inner {
-        display: block;
-        overflow: scroll;
-        background-color: #FFF;
-        position: fixed;
-        top: -90%;
-        left: 0;
-        height: 100%;
-        width: 100%;
-        padding-top: 107px;
-        
-        z-index: 1;
-        transition: .5s  linear;
-    } 
+ 
 @media screen and (max-width: 425px) {
     body {
         max-width: 375px;
