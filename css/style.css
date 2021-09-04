@@ -1678,7 +1678,7 @@ color: #0B132A;
 }
 .burger__item-title {
     border-radius:20px 0px 0px 20px;
-    padding: 2px 10px;
+    padding: 12px 10px;
     color: #4F5665;
 
     transition: all ease .2s ;
@@ -2305,7 +2305,7 @@ body.lock {
 }
 .burger__item-title {
     border-radius:20px 0px 0px 20px;
-    padding: 2px 10px;
+    padding: 12px 10px;
     color: #4F5665;
 
     transition: all ease .2s ;
@@ -2936,7 +2936,7 @@ body.lock {
 }
 .burger__item-title {
     border-radius:20px 0px 0px 20px;
-    padding: 2px 10px;
+    padding: 12px 10px;
     color: #4F5665;
 
     transition: all ease .2s ;
