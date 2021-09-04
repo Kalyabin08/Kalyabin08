@@ -169,6 +169,9 @@ html {
  .block {
      display: block;
  }
+.width {
+    width:75px;
+}
 
 
 
