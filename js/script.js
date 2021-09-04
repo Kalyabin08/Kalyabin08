@@ -77,8 +77,8 @@ $(document).ready(function() {
 });
 /* menu Burger */
 $(document).ready(function() {
-    $('.menu__burger').click(function() {
-        $('.menu__burger, .menuBurger__inner').toggleClass('active');
+    $('.menu__burger,.menu__burger-iphon').click(function() {
+        $('.menu__burger, .menuBurger__inner, .menu__burger-iphon').toggleClass('active');
         $('body').toggleClass('lock');
     });
     $(".burger__item-title-inst").click(function() {
