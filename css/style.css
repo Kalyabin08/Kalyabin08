@@ -2187,7 +2187,7 @@ body.lock {
         height: 20px;
         display: block;
         position: absolute;
-        right: 10%;
+        right: 5%;
         top: 30%;
         border: 0;
         background: none;
@@ -2378,7 +2378,7 @@ body.lock {
     text-align: center;
     box-shadow:1px 2px 10px rgba(255, 0, 0, 0.5);
     
-    transition: background-color .2s linear, color .2s linear ;
+    transition: background-color .2s linear, color .2s linear;
    
 }
 .menu-btn:hover {
@@ -2808,7 +2808,7 @@ body.lock {
         height: 20px;
         display: block;
         position: absolute;
-        right: 10%;
+        right: 5%;
         top: 30%;
         border: 0;
         background: none;
