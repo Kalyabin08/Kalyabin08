@@ -1162,7 +1162,7 @@ color: #0B132A;
     }
     .header {
         position: relative;
-        width: 375px;
+        width: 100%;
         height: 85px;
         position: fixed;
         top: 0;
