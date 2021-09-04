@@ -3055,6 +3055,10 @@ body.lock {
 .main__content::before {
     opacity: 0;
 }
+    .footer {
+    background-color:#FFF;
+    }
+    
 }
 
 
