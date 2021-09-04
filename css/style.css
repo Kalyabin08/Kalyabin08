@@ -3008,11 +3008,13 @@ body.lock {
     color: #F43939;
 }
 .registration {
-    
+    display: flex;
     padding-bottom: 20px;
     width: 100%;
-    margin:0 auto;
+    margin: 0 auto;
     margin-top: 30px;
+    flex-direction: column;
+    align-items: center;
 }
 .menu-btn {
     width: 314px;
