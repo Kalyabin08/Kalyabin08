@@ -622,7 +622,7 @@ color: #0B132A;
      ;
 }
 .provide__col-list::before {
-    content: url('./img/provide/marker.svg');
+    content: url('../img/provide/marker.svg');
     display: block;
     position: absolute;
     margin-left: -35px;
