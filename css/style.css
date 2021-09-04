@@ -1206,7 +1206,7 @@ color: #0B132A;
     }
     .main__content::after {
         position: absolute;
-       top: 450%;
+       top: 470%;
        left: 90%;
     }
     .main-photo {
@@ -1219,7 +1219,7 @@ color: #0B132A;
         margin-left: 20px;
     }
     .main__btn-mobile {
-        
+        position:relative;
         display: block;
         margin-left: 20px;
     }
@@ -2448,7 +2448,7 @@ body.lock {
     }
     .main__content::after {
         position: absolute;
-       top: 450%;
+       top: 480%;
        left: 90%;
     }
     .main-photo {
@@ -2461,7 +2461,7 @@ body.lock {
         margin-left: 20px;
     }
     .main__btn-mobile {
-        
+        position:relative;
         display: block;
         margin-left: 20px;
     }
