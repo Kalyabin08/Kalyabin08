@@ -3049,7 +3049,7 @@ body.lock {
     content: url('../img/main/heart.png');
     position: absolute;
     display: block;
-    right: -20%;
+    right: -45%;
     bottom: -28px;
 }
 .main__content::before {
